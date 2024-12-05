@@ -5,7 +5,7 @@ A Power BI Portfolio project to analyze efficiency of operations of a Data Opera
 
 This dataset contains a CSV file namely Data.csv.
 
-A) The IPL_Ball_by_Ball data file contains 56,932 rows and 16 columns namely 1)Profile 2)Created Date	3)Secondary Completed Date 4)Close Date	5)Most Recent Unassign Reason 6)Secondary Researcher 7)Researcher Hire Date	8)Research Group 9)Time taken to Complete (secs) 10)Benchmark Points 11)Workflow Type	12)Workflow Process	13)Workflow Status 14)Workflow Priority	15)Workflow Region 16)Is Corrrection Req
+The Data.csv file contains 56,932 rows and 16 columns namely 1)Profile 2)Created Date	3)Secondary Completed Date 4)Close Date	5)Most Recent Unassign Reason 6)Secondary Researcher 7)Researcher Hire Date	8)Research Group 9)Time taken to Complete (secs) 10)Benchmark Points 11)Workflow Type	12)Workflow Process	13)Workflow Status 14)Workflow Priority	15)Workflow Region 16)Is Corrrection Req
 
 ### Problem Statement
 
